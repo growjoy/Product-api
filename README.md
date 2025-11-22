@@ -158,8 +158,4 @@ php artisan serve
 }
 ```
 
-✔ Cara install JWT
-✔ Step-by-step alur API
-
-Tinggal bilang, nanti saya tambahkan ke README-nya.
 
