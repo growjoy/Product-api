@@ -158,19 +158,8 @@ php artisan serve
 }
 ```
 
----
-
-## 📜 Lisensi
-
-Project ini dibuat untuk keperluan pembelajaran dan bebas digunakan.
-
----
-
-Selesai! Jika kamu ingin menambahkan:
-✔ ERD Database
-✔ Screenshot Postman
-✔ Output contoh JSON
 ✔ Cara install JWT
 ✔ Step-by-step alur API
 
 Tinggal bilang, nanti saya tambahkan ke README-nya.
+
